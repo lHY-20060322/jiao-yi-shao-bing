@@ -109,7 +109,7 @@ streamlit run app.py
 
 ### 在线体验
 
-> 🌐 **在线 Demo**：[点击访问](https://jiao-yi-shao-bing-kwemct78sqdduszdtdtwa.streamlit.app)
+> 🌐 **在线 Demo**：[点击访问](https://jiao-yi-shao-bing-kwemct78xsqdduszdrtdwa.streamlit.app/)
 
 ---
 
